@@ -1,0 +1,68 @@
+{
+    "lawyers_list": [
+              {
+                  "name": "Stephen",
+                  "sirname": "Crawford",
+                  "id": 1572,
+                  "type": "Criminal",
+                  "rating": 4.8,
+                  "ranking": "1/18",
+                  "rate": 60.5,
+                  "status": "verified",
+                  "num_reviews": 12,
+                  "member_since": 2020-02-07T15:26:51.112Z,
+                  "average_response_time": 1,
+                  "description": "Senior Associate Criminal Lawyer",
+                  "information": "20 years of experience in criminal law",
+                  "profile_image":"file:///android_asset/fakedata/images/1572.jpg" 
+              },
+              {
+                  "name": "Margaret",
+                  "sirname": "Brown",
+                  "id": 1573,
+                  "type": "Conveyancing",
+                  "rating": 3.8,
+                  "ranking": "2/18",
+                  "rate": 50.5,
+                  "status": "verified",
+                  "num_reviews": 10,
+                  "member_since": 2020-02-06T15:26:51.112Z,
+                  "average_response_time": 2,
+                  "description": "Senior Associate Conveyancing Lawyer",
+                  "information": "10 years of experience in conveyancing",
+                  "profile_image":"file:///android_asset/fakedata/images/1573.jpg" 
+              },
+              {
+                  "name": "Mark",
+                  "sirname": "Hermez",
+                  "id": 1574,
+                  "type": "Criminal",
+                  "rating": 4.8,
+                  "ranking": "1/18",
+                  "rate": 60.5,
+                  "status": "verified",
+                  "num_reviews": 12,
+                  "member_since": 2020-02-07T15:26:51.112Z,
+                  "average_response_time": 1,
+                  "description": "Senior Associate Criminal Lawyer",
+                  "information": "20 years of experience in crimnal law",
+                  "profile_image":"file:///android_asset/fakedata/images/1572.jpg" 
+              },
+              {
+                  "name": "Stephen",
+                  "sirname": "Crawford",
+                  "id": 1575,
+                  "type": "Criminal",
+                  "rating": 4.8,
+                  "ranking": "1/18",
+                  "rate": 60.5,
+                  "status": "verified",
+                  "num_reviews": 12,
+                  "member_since": 2020-02-07T15:26:51.112Z,
+                  "average_response_time": 1,
+                  "description": "Senior Associate Criminal Lawyer",
+                  "information": "20 years of experience in crimnal law",
+                  "profile_image":"file:///android_asset/fakedata/images/1572.jpg" 
+              }
+    ]
+}
