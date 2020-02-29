@@ -49,8 +49,8 @@
                   "profile_image":"file:///android_asset/fakedata/images/1574.jpg" 
               },
               {
-                  "name": "Stephen",
-                  "sirname": "Crawford",
+                  "name": "Carl",
+                  "sirname": "Adekunle",
                   "id": 1575,
                   "type": "Criminal",
                   "rating": 4.8,
@@ -79,6 +79,38 @@
                   "description": "Conveyancing Lawyer",
                   "information": "2 years of experience in conveyancing law",
                   "profile_image":"file:///android_asset/fakedata/images/1576.jpg" 
+              },
+              {
+                  "name": "Stephen",
+                  "sirname": "Crawford",
+                  "id": 1577,
+                  "type": "Family Law",
+                  "rating": 4.5,
+                  "ranking": "1/18",
+                  "rate": 55.5,
+                  "status": "verified",
+                  "num_reviews": 12,
+                  "member_since": "2020-02-07T15:26:51.112Z",
+                  "average_response_time": 1,
+                  "description": "Senior Associate Family Lawyer",
+                  "information": "20 years of experience in family law",
+                  "profile_image":"file:///android_asset/fakedata/images/1575.jpg" 
+              },
+              {
+                  "name": "Mohammed",
+                  "sirname": "Ahmed",
+                  "id": 1578,
+                  "type": "Criminal",
+                  "rating": 4.8,
+                  "ranking": "1/18",
+                  "rate": 60.5,
+                  "status": "verified",
+                  "num_reviews": 12,
+                  "member_since": "2020-02-07T15:26:51.112Z",
+                  "average_response_time": 1,
+                  "description": "Senior Associate Criminal Lawyer",
+                  "information": "20 years of experience in crimnal law",
+                  "profile_image":"file:///android_asset/fakedata/images/1575.jpg" 
               }
     ]
 }
