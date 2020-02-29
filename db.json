@@ -94,7 +94,7 @@
                   "average_response_time": 1,
                   "description": "Senior Associate Family Lawyer",
                   "information": "20 years of experience in family law",
-                  "profile_image":"file:///android_asset/fakedata/images/1575.jpg" 
+                  "profile_image":"file:///android_asset/fakedata/images/1577.jpg" 
               },
               {
                   "name": "Mohammed",
@@ -110,7 +110,7 @@
                   "average_response_time": 1,
                   "description": "Senior Associate Criminal Lawyer",
                   "information": "20 years of experience in crimnal law",
-                  "profile_image":"file:///android_asset/fakedata/images/1575.jpg" 
+                  "profile_image":"file:///android_asset/fakedata/images/1578.jpg" 
               }
     ]
 }
